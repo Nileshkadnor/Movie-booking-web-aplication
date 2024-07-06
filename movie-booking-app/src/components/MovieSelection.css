@@ -1,0 +1,26 @@
+
+.movie-selection {
+    width: 80%;
+    margin: auto;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .movie-selection ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .movie-selection li {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .movie-selection h3 {
+    margin: 0;
+  }
+  
